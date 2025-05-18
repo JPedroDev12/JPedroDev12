@@ -7,7 +7,7 @@ Sou um desenvolvedor em formação com uma paixão antiga por tecnologia. Desde 
 - 🌱 Sempre aprendendo! Gosto de aplicar a tecnologia para resolver problemas reais.
 - 💻 Tenho conhecimentos em desenvolvimento web e banco de dados.
 - 🛠️ Gosto de codar interfaces, estruturar dados e pensar na lógica por trás das aplicações.
-- 🎮 Nas horas vagas, sou gamer nas horas extras — e curioso o tempo todo.
+- 🎮 Nas horas vagas gosto de jogar video game.
 - 🚧 Atualmente desenvolvendo projetos práticos para aplicar tudo o que venho aprendendo nos cursos.
 
 

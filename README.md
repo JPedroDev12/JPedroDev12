@@ -21,7 +21,6 @@
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Sempre_aprendendo-007EC6?style=for-the-badge&logo=awesome-lists&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Desenvolvimento_Web-28a745?style=for-the-badge&logo=code&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Interfaces_e_Lógica-ff9900?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Amo_videogames-9146FF?style=for-the-badge&logo=playstation&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Banco_de_Dados-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>

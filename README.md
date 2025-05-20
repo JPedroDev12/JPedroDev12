@@ -41,12 +41,18 @@
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=data&logoColor=white" />
 </p>
 
+<!-- Github Status -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=JPedroDev12&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroDev12&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JPedroDev12&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=JPedroDev12&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPedroDev12&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPedroDev12&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
